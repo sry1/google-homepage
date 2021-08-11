@@ -1,0 +1,1 @@
+Welcome to the google-homepage. This is a mini project that details a simpler way of seraching the internet. Enjoy!
